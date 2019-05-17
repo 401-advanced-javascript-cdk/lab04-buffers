@@ -5,7 +5,7 @@
 
 ### Links and Resources
 * [Submission PR](https://github.com/401-advanced-javascript-cdk/lab04-buffers/pull/1)
-<!-- * [Travis]( --- ) -->
+* [Travis]( --- )
 
 ### Modules
 #### `index.js`
@@ -21,3 +21,7 @@ Reads a text file into a buffer, then splices the text and concatenates HTML tag
 * `./files/loop.js and ./files/index.html` will be created.
 * Run `node ./files/loop.js` from the root directory to test the loop.
 * Copy the path of `index.html` into a browser to view it as a webpage.
+
+### Testing
+* `npm test`
+  * Uses a mock of `fs.readFile` and `fs.writeFile` to facilitate testing.
