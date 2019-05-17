@@ -5,7 +5,7 @@
 
 ### Links and Resources
 * [Submission PR](https://github.com/401-advanced-javascript-cdk/lab04-buffers/pull/1)
-* [Travis]( --- )
+* [Travis](https://travis-ci.com/401-advanced-javascript-cdk/lab04-buffers)
 
 ### Modules
 #### `index.js`
