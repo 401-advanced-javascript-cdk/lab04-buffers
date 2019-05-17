@@ -1,5 +1,5 @@
 
-## Lab 02 - Classes, Inheritance, and Functional Programming
+## Lab 04 - Buffers
 
 ### Author: Chris Kozlowski
 
