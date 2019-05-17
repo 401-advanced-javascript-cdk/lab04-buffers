@@ -4,7 +4,7 @@
 ### Author: Chris Kozlowski
 
 ### Links and Resources
-* [Submission PR]( --- )
+* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab04-buffers/pull/1)
 <!-- * [Travis]( --- ) -->
 
 ### Modules
